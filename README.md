@@ -9,10 +9,6 @@ This is a simple Random Number Guessing Game built using HTML, CSS, and JavaScri
 - Feedback on each guess (too high, too low, correct)
 - Reset button to start a new game
 
-## Screenshots
-
-![Game Interface](images/game_screenshot.png)
-
 ## Technologies Used
 
 - **HTML**: Structure of the web pages
